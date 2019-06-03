@@ -32,5 +32,9 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### References
+
+[Vue Guide](https://vuejs.org/v2/guide/)
+
+[Bootstrap vue](https://bootstrap-vue.js.org/)
+

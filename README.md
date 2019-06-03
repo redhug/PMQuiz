@@ -1,4 +1,4 @@
-# pmquiz
+# PMQuiz
 
 This app is built using Vue js which helps students to learn some questions about Project Management Course.
 
